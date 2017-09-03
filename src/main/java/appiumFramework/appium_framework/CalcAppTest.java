@@ -25,6 +25,7 @@ public class CalcAppTest {
 	}
 	
 	@Test
+	//upload test
 	public void SimpleTest() {
 		
 	}
